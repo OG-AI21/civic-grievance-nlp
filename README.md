@@ -1,5 +1,3 @@
- HEAD
-# civic-grievance-nlp
+# Civic Grievance NLP Project
 
-"# Civic grievance NLP project" 
- 3e98c90 (Initial commmit: added README)
+A Natural Language Processing project for analyzing public civic grievances and 311 service request data.
